@@ -1,7 +1,7 @@
-**Explainable CNN-Transformer Hybrid for Multi-Class ECG Arrhythmia Classification**
+**Towards Explainable CNN-Transformer Hybrid for Multi-Class ECG Arrhythmia Classification**
 Overview
 
-This project presents an explainable CNN-Transformer hybrid deep learning framework for automated multi-class ECG arrhythmia classification using the MIT-BIH Arrhythmia Dataset. The architecture combines Convolutional Neural Networks (CNNs) for local ECG waveform feature extraction with Transformer encoders for long-range temporal dependency learning.
+This project presents Towards an explainable CNN-Transformer hybrid deep learning framework for automated multi-class ECG arrhythmia classification using the MIT-BIH Arrhythmia Dataset. The architecture combines Convolutional Neural Networks (CNNs) for local ECG waveform feature extraction with Transformer encoders for long-range temporal dependency learning.
 
 In addition to predictive modeling, the framework incorporates attention-based explainability to improve interpretability, transparency, and trustworthiness in healthcare AI systems.
 
@@ -17,7 +17,7 @@ Recent advances in deep learning and Transformer architectures have demonstrated
 - Perform automated multi-class arrhythmia classification
 - Learn local ECG morphology and long-range temporal dependencies
 - Evaluate model performance using clinically relevant metrics
-- Incorporate explainable AI for interpretable predictions
+- Incorporate attention-based explainable AI for interpretable predictions
 
 ## Dataset
 MIT-BIH Arrhythmia Database
@@ -113,7 +113,7 @@ The model also exhibited reduced sensitivity toward minority arrhythmia classes,
 - CNN-Transformer hybrid architecture
 - Multi-class arrhythmia classification
 - Attention-based temporal learning
-- Explainable AI integration
+- Attention-Based Explainable AI integration
 - Confusion matrix analysis
 - GPU-compatible training workflow
 - Research-oriented implementation
